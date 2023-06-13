@@ -1,0 +1,65 @@
+p{font-family: Arial;
+opacity:60%;
+font-size:18px;
+margin-left: 20px;
+background-color:#e8b6b3;}
+ul{
+	font-family:Arial;
+	font-size:30px;
+}
+h3{color:grey;
+	font-family:Bebas Neue;
+	font-size:38px;
+	opacity:100%;
+	margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h1{color:grey;
+	font-family:projektni_zadatak;
+	font-size:43px;
+	opacity:100%;
+	margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h2,h3{color:grey;
+	font-family:Arial;
+	font-style:bold;
+	font-size:23px;
+	opacity:100%;
+	margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+ul{color:#210a5c;
+font-family:Arial;
+font-size:24px;
+width:600px;
+margin-left:20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+nav{
+	display:block;
+	list-style-type:none;
+	flex-grow:1;}
+html {
+  background-image: url('gradient2.jpg');
+  background-size:cover;
+}
+img{height: 300px;
+width: 240px;
+margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;}
+  a{font-family: Bebas Neue;
+opacity:60%;
+font-size:24px;
+margin-left: 20px;
